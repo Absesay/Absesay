@@ -1,5 +1,5 @@
-👋 Hi, I’m Abraham Sesay or @Absesay
-👀 I’m interested in fullstack web development with a focus on the front-end
+- 👋 Hi, I’m Abraham Sesay or @Absesay
+- 👀 I’m interested in fullstack web development with a focus on the front-end
 
 
 <!---
