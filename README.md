@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abraham Sesay or @Absesay
-- 👀 I’m a Fullstack Software Engineer solving business problems with the Java
+- 👀 I’m a Fullstack Software Engineer solving business problems with Java
 
 
 <!---
