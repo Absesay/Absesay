@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abraham Sesay or @Absesay
-- 👀 I’m a Fullstack Software Engineer solving business problems
+- 👀 I’m a Business Driven Fullstack Software Engineer solving problems for the BFSI industry(Banking, Financial Services, and Insurance products or services).
 
 
 <!---
